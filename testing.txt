@@ -3,3 +3,7 @@ Hello, Lets test Git!
 This is my first edit. This is a new edit here.
 
 This is the second edit.
+
+this is to conflict to testing branch
+
+pow pow pow pow pow boom
